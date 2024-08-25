@@ -4,9 +4,10 @@ This Flutter application integrates the Gemini AI API to create an interactive c
 
 ## 📱 Screenshots
 
-![Chat Interface](Screenshot 2024-08-25 124400.png)
-![Image Analysis](Screenshot 2024-08-25 124527.png)
-![Settings Screen](screenshots/settings_screen.png)
+![Splash Screen](https://github.com/swapnilkag14/Flutter-Gemini/blob/main/Screenshot%202024-08-25%20124612.png)
+![Chat Interface](https://github.com/swapnilkag14/Flutter-Gemini/blob/main/Screenshot%202024-08-25%20124400.png)
+![Image Analysis](https://github.com/swapnilkag14/Flutter-Gemini/blob/main/Screenshot%202024-08-25%2012452)
+
 
 ## 🚀 Features
 
