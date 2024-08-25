@@ -1,16 +1,28 @@
-# gemini
+# Gemini AI Flutter App
 
-A new Flutter project.
+This Flutter application integrates the Gemini AI API to create an interactive chat interface with image analysis capabilities. It's designed as a learning project to explore the integration of AI in mobile applications.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+![Chat Interface](Screenshot 2024-08-25 124400.png)
+![Image Analysis](Screenshot 2024-08-25 124527.png)
+![Settings Screen](screenshots/settings_screen.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Text-based chat with Gemini AI
+- Image analysis and description
+- Intuitive user interface
+- Asynchronous API integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Gemini AI API key
+
+### Installation
+
+1. Clone the repository:
